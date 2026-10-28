@@ -1,0 +1,9 @@
+pve:
+  host: "http://localhost:8006"
+  node: "pve"
+  template_id: 9000
+  storage: "local-lvm"
+
+defaults:
+  memory_mb: 2048
+  cores: 2
